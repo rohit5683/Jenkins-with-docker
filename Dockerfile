@@ -10,5 +10,5 @@ WORKDIR /app
 # Copying Static web application to nginx directory
 COPY /webapp /usr/share/nginx/html/
 
-# Exposing the port the make it accessable 
+# Exposing the port the make it accessable on browser
 EXPOSE 80
