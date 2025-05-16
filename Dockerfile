@@ -3,7 +3,7 @@ FROM nginx:alpine
 
 LABEL maintainer="rohit.vishwakarma5683@gmail.com"
 
-#Sets the working directory inside the container
+#Sets the working directory inside the container 
 WORKDIR /app
 
 
