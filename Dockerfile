@@ -1,4 +1,4 @@
-# Using nginx web server as an Image
+# Using nginx web server as an Image 
 FROM nginx:alpine
 
 LABEL maintainer="rohit.vishwakarma5683@gmail.com"
